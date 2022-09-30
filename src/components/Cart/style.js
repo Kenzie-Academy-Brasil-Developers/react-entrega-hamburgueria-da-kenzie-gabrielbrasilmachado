@@ -31,6 +31,8 @@ export const StyledCart = styled.div`
         flex-direction: column;
         gap: 1rem;
         padding: 1rem 0;
+        border-bottom-left-radius: 4px;
+        border-bottom-right-radius: 4px;
     }
 
     .emptyCart{

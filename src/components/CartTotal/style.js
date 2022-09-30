@@ -9,6 +9,8 @@ export const StyledTotal = styled.div`
 
     margin-bottom: 50px;
 
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
     
     div{
         border-top: 2px solid var(--gray-20);
