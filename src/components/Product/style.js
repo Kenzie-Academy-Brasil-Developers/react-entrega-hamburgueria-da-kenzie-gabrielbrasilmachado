@@ -42,7 +42,7 @@ export const StyledLi = styled.li`
         font-size: 18px;
         font-weight: 700;
         color: var(--gray-100);
-        max-width: 100%;
+        width: fit-content;
     }
 
     p{

@@ -60,5 +60,8 @@ export const StyledCartItem = styled.li`
         font-size: 10px;
         font-weight: 500;
         color: var(--gray-50);
+        width: fit-content;
+        height: fit-content;
+        cursor: pointer;
     }
 `
